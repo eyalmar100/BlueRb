@@ -2,7 +2,7 @@
 
 Tests
 There are Tests ( 6 ) :
-Positive testsm and Negative tests
+Positive tests and Negative tests
 
 
 API to validate coupon:
