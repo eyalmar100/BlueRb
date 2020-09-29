@@ -1,4 +1,10 @@
 # BlueRb
+
+Tests
+There are Tests ( 6 ) :
+Positive testsm and Negative tests
+
+
 API to validate coupon:
 ------------------------------
 POST: http://localhost:9090/api/v1/coupons/validate
