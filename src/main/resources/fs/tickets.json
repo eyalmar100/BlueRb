@@ -1,0 +1,84 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "destination": {
+        "id": "dest-sok",
+        "name": "Sokovia"
+      },
+      "available": true
+    },
+    {
+      "id": "2",
+      "destination": {
+        "id": "desk-uga",
+        "name": "Uganda"
+      },
+      "available": false
+    },
+    {
+      "id": "3",
+      "destination": {
+        "id": "desk-ger",
+        "name": "Germany"
+      },
+      "available": false
+    },
+    {
+      "id": "4",
+      "destination": {
+        "id": "dest-sil",
+        "name": "Silvegia"
+      },
+      "available": true
+    },
+    {
+      "id": "5",
+      "destination": {
+        "id": "desk-new",
+        "name": "New York"
+      },
+      "available": true
+    },
+    {
+      "id": "6",
+      "destination": {
+        "id": "dest-ind",
+        "name": "India"
+      },
+      "available": true
+    },
+    {
+      "id": "7",
+      "destination": {
+        "id": "dest-pel",
+        "name": "Pelselona"
+      },
+      "available": false
+    },
+    {
+      "id": "8",
+      "destination": {
+        "id": "dest-bel",
+        "name": "Belgium"
+      },
+      "available": true
+    },
+    {
+      "id": "9",
+      "destination": {
+        "id": "dest-net",
+        "name": "Netherlands"
+      },
+      "available": false
+    },
+    {
+      "id": "10",
+      "destination": {
+        "id": "dest-fra",
+        "name": "France"
+      },
+      "available": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "coupons": [
+    {
+      "id": "coup1",
+      "discount": 10
+    },
+    {
+      "id": "coup2",
+      "discount": 12
+    },
+    {
+      "id": "coup3",
+      "discount": 5
+    },
+    {
+      "id": "coup4",
+      "discount": 40
+    },
+    {
+      "id": "coup5",
+      "discount": 35
+    },
+    {
+      "id": "coup6",
+      "discount": 60
+    },
+    {
+      "id": "coup7",
+      "discount": 25
+    },
+    {
+      "id": "coup8",
+      "discount": 18
+    },
+    {
+      "id": "coup9",
+      "discount": 90
+    }
+  ]
+}

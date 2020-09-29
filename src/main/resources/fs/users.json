@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "destinationId": "dest-sil",
+      "ticketId": "4",
+      "baggage": {
+        "id": "user1_bag1",
+        "weight": "1Kg"
+      }
+    },
+    {
+      "id": "user2",
+      "destinationId": "dest-new",
+      "ticketId": "5",
+      "baggage": {
+        "id": "user2_bag1",
+        "weight": "0.5Kg"
+      }
+    },
+    {
+      "id": "user3",
+      "destinationId": "dest-bel",
+      "ticketId": "8",
+      "baggage": {
+        "id": "user3_bag1",
+        "weight": "3Kg"
+      }
+    },
+    {
+      "id": "user4",
+      "destinationId": "dest-fra",
+      "ticketId": "10",
+      "baggage": {
+        "id": "user4_bag1",
+        "weight": "1Kg"
+      }
+    }
+  ]
+}
