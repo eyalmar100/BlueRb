@@ -33,14 +33,7 @@ public class UseController {
 	}
 	
 	
-	@PostMapping(value = "/checkintest", consumes = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<Boolean> checkinTest(@RequestBody @Valid CheckInRequest checkInRequest) {
-		return ResponseEntity.ok( null);
-	}
+	 
 	
-	@PostMapping(value = "/user", consumes = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<Boolean> addUser(@RequestBody @Valid User user) {
-		log.info("some test message");
-		return ResponseEntity.ok(this.userService.addUser(user));
-	}
+	 
 }
